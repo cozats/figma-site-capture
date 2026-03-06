@@ -1,0 +1,9 @@
+{
+  "name": "figma-site-capture",
+  "description": "Full-site Figma capture skill. Crawls a live website and imports every page, breakpoint, and UI state into Figma as editable design layers.",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "homepage": "https://yourwebsite.com"
+}
