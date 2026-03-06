@@ -13,8 +13,8 @@ A specialized Claude skill that fully captures a live website into Figma as edit
 
 To use this skill, you need Claude with the following MCP servers configured and running:
 
-1. **[Figma Remote MCP](https://www.figma.com/developers/mcp)**: Required to interact with Figma and push designs.
-2. **[Playwright MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/playwright)**: Required to browse, render, and execute scripts on the live websites.
+1. **[Figma Remote MCP](https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/)**: Required to interact with Figma and push designs.
+2. **[Playwright MCP](https://github.com/microsoft/playwright-mcp)**: Required to browse, render, and execute scripts on the live websites.
 
 ## Installation
 
